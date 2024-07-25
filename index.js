@@ -92,8 +92,6 @@ gamesCard.innerHTML = `
    <p> ${goalAmount.toLocaleString("en")} </p>
 `;
 
-
-
 /*************************************************************************************
  * Challenge 5: Add functions to filter the funded and unfunded games
  * total number of contributions, amount donated, and number of games on the site.
@@ -136,6 +134,8 @@ function showAllGames() {
     addGamesToPage(GAMES_JSON)
 
 }
+
+filterFundedOnly()
 
 // select each button in the "Our Games" section
 const unfundedBtn = document.getElementById("unfunded-btn");
