@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='https://imgur.com/6F3GYDp' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- LICEcap -->
-GIF created with ...  
+GIF created with LICEcap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
