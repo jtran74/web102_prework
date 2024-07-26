@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/zDt7EYc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/9caX5L4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- LICEcap -->
 GIF created with LICEcap  
