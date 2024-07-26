@@ -135,7 +135,6 @@ function showAllGames() {
 
 }
 
-filterFundedOnly()
 
 // select each button in the "Our Games" section
 const unfundedBtn = document.getElementById("unfunded-btn");
